@@ -36,7 +36,7 @@ function check(key) {
 
 function init (key) {
  input.addEventListener('keydown', check) 
- 
+
          }
  
 
