@@ -36,7 +36,7 @@ function check(key) {
 
 function init (key) {
  if (count === codes.length) {
-  console.log("Congreats Log")
+  console.log("Congrats Log")
    alert("Congrats")
  }
          }
