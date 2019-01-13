@@ -25,7 +25,7 @@ function check(key) {
     count ++
     console.log(count)
     if (count === codes.length) {
-      keyInt()
+      init()
     }
     return
   } else {
@@ -34,7 +34,7 @@ function check(key) {
   }
 }
 
-function keyInt (key) {
+function init (key) {
  if (count === codes.length) {
    alert("Congrats")
  }
