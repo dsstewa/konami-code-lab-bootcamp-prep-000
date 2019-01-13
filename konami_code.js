@@ -34,8 +34,6 @@ function check(key) {
   }
 }
 
-
-
 function keyInt (key) {
  if (count === codes.length) {
    alert("Congrats")
@@ -44,12 +42,6 @@ function keyInt (key) {
  
 
 
-
-
-
-
-function init() {
-}
 
 
     
